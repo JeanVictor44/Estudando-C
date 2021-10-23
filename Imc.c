@@ -1,6 +1,4 @@
-#include <stdio.h>
-#include <math.h>
-
+// Linhas que começam com # são verificadas pelo pré processador antes do programa ser compilado
 int main(){
 	float weight;
 	float height;
